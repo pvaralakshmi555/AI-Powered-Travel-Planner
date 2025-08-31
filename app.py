@@ -52,7 +52,7 @@ if submitted:
     ])
     
     chat_model = ChatGoogleGenerativeAI(
-        api_key="AIzaSyBXxObUS6X-lwjpMB1rcGw7wT2LYECLhyI",  # 🔑 Replace with your API key
+        api_key=Your_API_KEY,  # 🔑 Replace with your API key
         model="gemini-2.0-flash"
     )
 
